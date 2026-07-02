@@ -40,13 +40,13 @@
     "@tailwindcss/typography": "^0.5.15",
     "@types/react": "^19.1.8",
     "esbuild-react-compiler-plugin": "workspace:*",
-    "next": "^16.0.7",
+    "next": "^16.2.6",
     "nextra": "workspace:*",
-    "postcss": "^8.4.33",
+    "postcss": "^8.5.10",
     "react": "19.1.0",
     "tailwindcss": "4.1.10",
-    "vitest": "^3.0.0",
-    "zx": "^8.2.4"
+    "vitest": "^3.2.6",
+    "zx": "^8.8.5"
   },
   "sideEffects": false
 }
